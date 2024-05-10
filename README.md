@@ -22,4 +22,4 @@ If you want to use the fast version (TorqueClustering_kdtree) of TC for large da
 
 If you find our codes useful, please cite our paper: **Jie Yang and Chin-Teng Lin, “Autonomous clustering by fast find of mass and distance peaks,” May 2022, doi: 10.36227/techrxiv.19691914.v1.** The pre-print version of this paper is [here](https://www.techrxiv.org/users/686426/articles/679723-autonomous-clustering-by-fast-find-of-mass-and-distance-peaks)
 
-**The code and Torque Clustering algorithm is not meant for commercial use. Please contact the author (jie.yang-1@ust.edu.au or jie.yang.uts@gmail.com) for licensing information.**
+**The code and Torque Clustering algorithm is not meant for commercial use. Please contact the author (jie.yang-1@uts.edu.au or jie.yang.uts@gmail.com) for licensing information.**
