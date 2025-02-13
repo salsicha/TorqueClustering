@@ -20,6 +20,6 @@ If you want to use the fast version (TorqueClustering_kdtree) of TC for large da
 
 <h3>**Citation**</h3>
 
-If you find our codes useful, please cite our paper: **Jie Yang and Chin-Teng Lin, “Autonomous clustering by fast find of mass and distance peaks,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2025.3535743** The pre-print version of this paper is [here]([https://www.computer.org/csdl/journal/tp/5555/01/10856563/23Saifm0vLy])
+If you find our codes useful, please cite our paper: **Jie Yang and Chin-Teng Lin, “Autonomous clustering by fast find of mass and distance peaks,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2025.3535743** The pre-print version of this paper is [here](https://www.computer.org/csdl/journal/tp/5555/01/10856563/23Saifm0vLy)
 
 **The code and Torque Clustering algorithm is not meant for commercial use. Please contact the author (jie.yang.uts@gmail.com) for licensing information.**
