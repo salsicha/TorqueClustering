@@ -31,7 +31,7 @@ If you find our codes useful, please cite our paper: **Jie Yang and Chin-Teng Li
 <h4>**license**</h4>
 
 ##### 🚨 License & Forking Policy 🚨
-This repository is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+This repository is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International **(CC BY-NC-SA 4.0)**.
 
 ###### ❌ Prohibition of Commercial Use
 - This software **MAY NOT** be used for any **commercial purposes**.
