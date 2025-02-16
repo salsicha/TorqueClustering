@@ -433,3 +433,9 @@ the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+### Additional Forking Restrictions:
+- This repository **MAY be forked**, but **ALL forked versions must retain this license (CC BY-NC-SA 4.0)**.
+- **Forked repositories MAY NOT be used for commercial purposes.**
+- **Forked versions must include proper attribution to the original author.**
+- Any violation of these terms may result in a **DMCA takedown request**.
