@@ -14,7 +14,7 @@ Due to the space limits of Github, we put all the data sets on the [google drive
 
 The explanation of each "Run" file:
 
-TorqueClustering_Run.m and TorqueClustering_on_ImageClustering.m: The codes for the reproduction of the results in the main article.
+TorqueClustering_Run.m and TorqueClustering_Run_ImageClustering.m: The codes for the reproduction of the results in the main article.
 
 TorqueClustering_Run_Supplementary.m: The codes for the reproduction of the results in the supplementary information.
 
