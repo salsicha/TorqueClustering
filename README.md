@@ -22,24 +22,36 @@ If you want to use the fast version (TorqueClustering_kdtree) of Torque Clusteri
 
 <h3>**Citation**</h3>
 
-If you find our codes useful, please cite our paper: **Jie Yang and Chin-Teng Lin, “Autonomous clustering by fast find of mass and distance peaks,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2025.3535743** The pre-print version of this paper is [here](https://www.computer.org/csdl/journal/tp/5555/01/10856563/23Saifm0vLy)
+If you find our codes useful, please cite our paper:  
+**Jie Yang and Chin-Teng Lin, “Autonomous clustering by fast find of mass and distance peaks,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2025.3535743**  
+The pre-print version of this paper is [here](https://www.computer.org/csdl/journal/tp/5555/01/10856563/23Saifm0vLy)
+
+---
+
+## **📜 Code Ownership & Copyright**
+All code in this repository was **exclusively written and implemented by Jie Yang**, and the **copyright belongs to Jie Yang**.  
+
+**Unauthorized modifications, claims of ownership, or attempts to commercialize this code are strictly prohibited.**  
+
+For inquiries regarding licensing, please contact:  
+📩 [jie.yang.uts@gmail.com](mailto:jie.yang.uts@gmail.com).
+
+---
 
 **The code and Torque Clustering algorithm is not meant for commercial use. Please contact the author (jie.yang.uts@gmail.com) for licensing information.**
 
-
-
-<h4>**license**</h4>
+<h4>**License**</h4>
 
 ##### 🚨 License & Forking Policy 🚨
-This repository is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International **(CC BY-NC-SA 4.0)**.
+This repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
 ###### ❌ Prohibition of Commercial Use
 - This software **MAY NOT** be used for any **commercial purposes**.
 - Any form of **selling, paid services, SaaS deployment, or monetization** based on this repository is **strictly prohibited**.
 
 ###### 🔄 Forking Rules
-- You are allowed to fork** this repository, but **you MUST retain this exact license (CC BY-NC-SA 4.0)**.
-- Proper attribution to the original author is required when using, modifying, or redistributing this repository.
+- **You are allowed to fork** this repository, but **you MUST retain this exact license (CC BY-NC-SA 4.0)**.
+- **Proper attribution to the original author is required** when using, modifying, or redistributing this repository.
 - Any modifications, adaptations, or derivative works **must also be non-commercial and remain under CC BY-NC-SA 4.0**.
 
 ###### 🛑 Enforcement of License Violations
