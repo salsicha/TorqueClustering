@@ -1,4 +1,17 @@
 function score = accuracy_1(true_labels, cluster_labels)
+% -----------------------------------------------------------------------------
+%  Torque Clustering - Matlab Implementation
+%  Copyright (C) Jie Yang
+%
+%  Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+%  International (CC BY-NC-SA 4.0)
+%
+%  This code is intended for academic and research purposes only.
+%  Commercial use is strictly prohibited. Please contact the author for licensing inquiries.
+%
+%  Author: Jie Yang (jie.yang.uts@gmail.com)
+% -----------------------------------------------------------------------------
+
 %ACCURACY_1 Compute clustering accuracy using the true and cluster labels and
 %accuracy_1 function is the accelerated version of accuracy function. 
 %Here, we replaced the old Hungarian (munckres) function with
