@@ -1,7 +1,19 @@
 function [Cdist] = ps2psdist(Loc_dataset1,Loc_dataset2,DM)
+% -----------------------------------------------------------------------------
+%  Torque Clustering - Matlab Implementation
+%  Copyright (C) Jie Yang
+%
+%  Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+%  International (CC BY-NC-SA 4.0)
+%
+%  This code is intended for academic and research purposes only.
+%  Commercial use is strictly prohibited. Please contact the author for licensing inquiries.
+%
+%  Author: Jie Yang (jie.yang.uts@gmail.com)
+% -----------------------------------------------------------------------------
+
 %PS2PSDIST_DM Summary of this function goes here %%just using dist matrix
-%without recalculate the distance.
-%¸üĞÂ£º²»ĞèÒªÖØ¸´·ÃÎÊDM£¬Ö±½Ó°Ñ²»ĞèÒªµÄ¾àÀëÖÃ¿Õ
+
 %   Detailed explanation goes here
 %if numel(Loc_dataset1)==1&&numel(Loc_dataset2)==1
     %Cdist=DM(Loc_dataset1,Loc_dataset2);
@@ -14,9 +26,9 @@ function [Cdist] = ps2psdist(Loc_dataset1,Loc_dataset2,DM)
 %dists(diff_Loc1,:)=[];
 %dists(:,diff_Loc2)=[];
 dists=DM(Loc_dataset1,Loc_dataset2);
-%Cdist=mean(mean(dists));%%Àà¼äÆ½¾ù¾àÀë
+%Cdist=mean(mean(dists));%%ç±»é—´å¹³å‡è·ç¦»
 %Cdist=mean([num1 num2])*mean(mean(dists));
-Cdist=min(min(dists));%%Á½Àà¼ä×î¶Ì¾àÀë
+Cdist=min(min(dists));%%ä¸¤ç±»é—´æœ€çŸ­è·ç¦»
 %Cdist=max(max(dists));
 %Cdist=norm(mean(dataset1)-mean(dataset2));
 %end
