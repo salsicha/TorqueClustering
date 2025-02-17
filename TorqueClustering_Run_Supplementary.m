@@ -1,3 +1,17 @@
+% -----------------------------------------------------------------------------
+%  Torque Clustering - Matlab Implementation
+%  Copyright (C) Jie Yang
+%
+%  Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+%  International (CC BY-NC-SA 4.0)
+%
+%  This code is intended for academic and research purposes only.
+%  Commercial use is strictly prohibited. Please contact the author for licensing inquiries.
+%
+%  Author: Jie Yang (jie.yang.uts@gmail.com)
+% -----------------------------------------------------------------------------
+
+
 %%
 disp('TC results on 27 data sets with noise, outliers, overlaps, or other peculiar distribution')
 addpath(genpath('../data/supplement data'))
