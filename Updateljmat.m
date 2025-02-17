@@ -1,9 +1,19 @@
 function [new_ljmat,cutlinkpower] = Updateljmat(old_ljmat,neiborloc,community,commu_DM,G,ALL_DM)
+% -----------------------------------------------------------------------------
+%  Torque Clustering - Matlab Implementation
+%  Copyright (C) Jie Yang
+%
+%  Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+%  International (CC BY-NC-SA 4.0)
+%
+%  This code is intended for academic and research purposes only.
+%  Commercial use is strictly prohibited. Please contact the author for licensing inquiries.
+%
+%  Author: Jie Yang (jie.yang.uts@gmail.com)
+% -----------------------------------------------------------------------------
+
 %NNC_UPDATELJMAT Summary of this function goes here
-%   Detailed explanation goes here
-% On the basis of GC_updateljmat_2, consider the cluster whose mass is one.
-% 更新：在原有基础上，剔除掉neiborloc有多个的可能性，只判断有，或者，无。
-%版本6上用函数去计算两个社区最近的两个点
+
 pd=numel(community{1});
 if pd>1
 community_num=numel(community);
