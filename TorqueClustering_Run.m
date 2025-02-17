@@ -1,3 +1,18 @@
+% -----------------------------------------------------------------------------
+%  Torque Clustering - Matlab Implementation
+%  Copyright (C) Jie Yang
+%
+%  Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+%  International (CC BY-NC-SA 4.0)
+%
+%  This code is intended for academic and research purposes only.
+%  Commercial use is strictly prohibited. Please contact the author for licensing inquiries.
+%
+%  Author: Jie Yang (jie.yang.uts@gmail.com)
+% -----------------------------------------------------------------------------
+
+
+
 addpath(genpath('../data'))
 
 
