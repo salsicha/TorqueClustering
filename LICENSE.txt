@@ -1,3 +1,18 @@
+Copyright (C) Jie Yang  
+All rights reserved.  
+
+This repository is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
+The implementation of Torque Clustering in this repository was **exclusively developed by Jie Yang**.  
+
+Unauthorized commercial use is strictly prohibited.  
+For licensing inquiries, please contact: [jie.yang.uts@gmail.com](mailto:jie.yang.uts@gmail.com).
+
+=======================================================================
+
+
+
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
